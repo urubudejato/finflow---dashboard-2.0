@@ -1,0 +1,6 @@
+{
+  "name": "AuraOS — Dashboard Financeiro & Produtividade",
+  "description": "Dashboard all-in-one minimalista com estética glassmorphism: controle de finanças, rotinas diárias, workflow kanban, agenda integrada, anotações e métricas personalizadas com exportação PDF/CSV e sincronização Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
